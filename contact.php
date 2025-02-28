@@ -1,1 +1,1 @@
-<?php echo 'Contact Page'; ?>
+<?php echo 'Contact Page edited'; ?>
